@@ -1,4 +1,8 @@
 ---
+genres:
+  - music
+  - arcade
+  - casual
 directors_cut: https://wavedash.com/games/m-u-s-i-c
 video: https://youtu.be/M7Wn4ruLRH8
 # See github.com/js13kGames/hello-world for supported frontmatter
